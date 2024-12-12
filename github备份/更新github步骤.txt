@@ -1,6 +1,0 @@
-1.修改文章等
-2.npm bulid
-3.git clone https://github.com/uuui/uuui.github.io.git
-4.将public下文件覆盖到本目录
-5.修改完成
-
