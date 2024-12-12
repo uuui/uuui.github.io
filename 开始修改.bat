@@ -1,5 +1,5 @@
 @echo off
 
-git pull origin jy
+git pull origin master
 
 pause
