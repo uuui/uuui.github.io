@@ -3,11 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "html": "hexo generate",
+    "build": "hexo generate",
     "clean": "hexo clean",
-    "run": "hexo server",
-    "github": "hexo deploy",
-    "new": "hexo new '文章标题'"
+    "server": "hexo server",
+    "github": "hexo deploy"
   },
   "hexo": {
     "version": "7.0.0"
