@@ -250,7 +250,7 @@ web_analytics:  # 网页访问统计
   # 百度统计的 Key，值需要获取下方链接中 `hm.js?` 后边的字符串
   # Baidu analytics, get the string behind `hm.js?`
   # See: https://tongji.baidu.com/sc-web/10000033910/home/site/getjs?siteId=13751376
-  baidu: "049bc76df619109c046b5e1407bf9af2"
+  baidu: "c8cb74a7e2a94b36fbd55f4364d96ffe"
 
   # Google Analytics 4 的媒体资源 ID
   # Google Analytics 4 MEASUREMENT_ID
