@@ -2,7 +2,7 @@
 title: 万能影音格式转换器 V1.24.12.13
 excerpt: 支持任何影音格式的万能格式转换器，使用ffmpeg开发。
 tags: [影音,转换器,格式,万能]
-index_img: /img/3/1.png
+index_img: /img/Convert/1.png
 date: 2024-12-13
 ---
 
@@ -22,5 +22,5 @@ mp3 转 wmv
 等等
 
 ### 软件效果
-![软件界面](/img/3/1.png)
-![转换界面](/img/3/2.png)
+![软件界面](/img/Convert/1.png)
+![转换界面](/img/Convert/2.png)

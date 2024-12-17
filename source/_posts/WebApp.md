@@ -2,7 +2,7 @@
 title: 网页秒变客户端 V2.24.12.16
 excerpt: 可以把网页封装成客户端，以客户端形式运行在电脑上,支持任何网页和网页源文件。
 tags: [网页,客户端,封装,网站]
-index_img: /img/1/1.webp
+index_img: /img/WebApp/1.webp
 date: 2024-12-17
 ---
 
@@ -41,15 +41,15 @@ date: 2024-12-17
 24. 缩放比例【默认:100%】
 
 ### 软件效果
-![效果图](/img/1/1.webp)
-![效果图](/img/1/2.webp)
-![效果图](/img/1/3.webp)
-![效果图](/img/1/4.webp)
-![效果图](/img/1/5.webp)
-![效果图](/img/1/6.webp)
-![效果图](/img/1/7.webp)
-![效果图](/img/1/8.webp)
-![效果图](/img/1/9.webp)
+![效果图](/img/WebApp/1.webp)
+![效果图](/img/WebApp/2.webp)
+![效果图](/img/WebApp/3.webp)
+![效果图](/img/WebApp/4.webp)
+![效果图](/img/WebApp/5.webp)
+![效果图](/img/WebApp/6.webp)
+![效果图](/img/WebApp/7.webp)
+![效果图](/img/WebApp/8.webp)
+![效果图](/img/WebApp/9.webp)
 
 ### 最新更新2024-12-16
 1.去掉了管理员权限运行
