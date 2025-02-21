@@ -419,7 +419,7 @@ open_graph:
 footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
-  content: '<a target=blank href="tencent://message/?uin=1124391467"><img border="0"  width="21" SRC="https://qzonestyle.gtimg.cn/qzone/qzact/act/external/tiqq/logo.png"/></a> QQ:1124391467 <a href="https://m.tb.cn/h.TVlpvLK?tk=n5If3DgDP0h"><img border="0" width="21" src="https://img.alicdn.com/tfs/TB19WObTNv1gK0jSZFFXXb0sXXa-144-144.png"/></a> 微信:j07181002'
+  content: '<a target=blank href="tencent://message/?uin=1124391467"><img border="0"  width="21" SRC="https://qzonestyle.gtimg.cn/qzone/qzact/act/external/tiqq/logo.png"/></a> QQ:1124391467 <a href="https://shop107179805.taobao.com/"><img border="0" width="21" src="https://img.alicdn.com/tps/i3/T1OjaVFl4dXXa.JOZB-114-114.png"/></a> 微信:j07181002'
   
 
   # 展示网站的 PV、UV 统计数
