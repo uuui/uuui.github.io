@@ -6,7 +6,7 @@ index_img: /img/Install/7.png
 date: 2024-12-05
 ---
 
-### [去闲鱼看看](https://h5.m.goofish.com/item?id=825429633762)
+### [去闲鱼看看](https://item.taobao.com/item.htm?id=886677223433)
 
 ### 软件介绍
 > 安装包制作工具，支持替换图标、图片、开机启动等功能。
