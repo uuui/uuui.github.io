@@ -959,7 +959,6 @@ about:
     # - { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
     - { class: "iconfont icon-wechat-fill", qrcode: "/img/wx.jpg" }
     - { class: "iconfont icon-qq-fill", qrcode: "/img/qq.jpg" }
-    - { class: "iconfont icon-taobao-fill", qrcode: "/img/xianyu.jpg" }
 
 
 #---------------------------
