@@ -11,6 +11,24 @@
   </url>
   
   <url>
+    <loc>https://jycode.top/Install/</loc>
+    
+    <lastmod>2025-02-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jycode.top/IE/</loc>
+    
+    <lastmod>2025-02-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jycode.top/Apps/</loc>
     
     <lastmod>2024-12-27</lastmod>
@@ -21,15 +39,6 @@
   
   <url>
     <loc>https://jycode.top/MediaConvert/</loc>
-    
-    <lastmod>2024-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jycode.top/Install/</loc>
     
     <lastmod>2024-12-17</lastmod>
     
@@ -197,6 +206,20 @@
   
   <url>
     <loc>https://jycode.top/tags/%E6%95%B4%E7%90%86%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2025-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jycode.top/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
+    <lastmod>2025-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jycode.top/tags/IE%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
     <lastmod>2025-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
