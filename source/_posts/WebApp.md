@@ -48,7 +48,6 @@ date: 2025-02-21
 ![效果图](/img/WebApp/6.png)
 ![效果图](/img/WebApp/7.png)
 ![效果图](/img/WebApp/8.png)
-![效果图](/img/WebApp/9.png)
 
 ### 最新更新2024-12-16
 1.去掉了管理员权限运行
