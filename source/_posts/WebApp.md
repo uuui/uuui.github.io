@@ -2,7 +2,7 @@
 title: 网页秒变客户端 V2.24.12.23
 excerpt: 可以把网页封装成客户端，以客户端形式运行在电脑上,支持任何网页和网页源文件。
 tags: [网页,客户端,封装,网站,网页变客户端,网页封装客户端]
-index_img: /img/WebApp/1.webp
+index_img: /img/WebApp/1.png
 date: 2025-02-21
 ---
 
