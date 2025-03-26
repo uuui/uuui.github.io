@@ -1,9 +1,9 @@
 ---
-title: 鲸鱼ADB V1.25.03.25
+title: 鲸鱼ADB V1.25.3.25
 excerpt: 安卓远程控制，安卓ADB，安卓精简，ADB精简，安卓瘦身
 tags: [安卓,ADB,远程,控制,精简,瘦身,管理]
 index_img: /img/JYADB/0.png
-date: 2025-03-25
+date: 2025-3-25
 ---
 
 ### 闲鱼搜索【鲸鱼软件开发】
