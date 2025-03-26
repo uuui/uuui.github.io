@@ -14,7 +14,7 @@ date: 2025-3-25
 
 
 ### 软件效果
-<iframe src='/img/JYADB/0.mp4' width='100%' height='500px'></iframe>
+<video src='/img/JYADB/0.mp4' width='100%' height='500px'></video>
 
 ![](/img/JYADB/0.png)
 ![](/img/JYADB/1.png)
