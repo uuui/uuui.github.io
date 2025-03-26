@@ -1,8 +1,8 @@
 ---
-title: 强制打开IE浏览器 V1.25.2.21
-excerpt: 强制打开IE浏览器。强制打开IE浏览器。强制打开IE浏览器。
-tags: [浏览器,IE浏览器]
-index_img: /img/IE/1.jpg
+title: 强制打开IE浏览器
+excerpt: 强制打开IE浏览器。
+tags: [浏览器,IE]
+index_img: /images/IE/1.jpg
 date: 2025-02-21
 ---
 
@@ -13,8 +13,9 @@ date: 2025-02-21
 该软件尝试了3种强制打开IE浏览器的方式，总有一种适合你，打不开包退。
 
 ### 软件效果
-![](/img/IE/2.png)
-![](/img/IE/3.png)
-![](/img/IE/4.png)
-![](/img/IE/5.png)
-![](/img/IE/6.png)
+![](/images/IE/1.png)
+![](/images/IE/2.png)
+![](/images/IE/3.png)
+![](/images/IE/4.png)
+![](/images/IE/5.png)
+![](/images/IE/6.png)

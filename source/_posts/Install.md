@@ -1,8 +1,8 @@
 ---
-title: 安装包制作 V2.24.12.5
+title: 安装包制作
 excerpt: 安装包制作工具，支持替换图标、图片、开机启动等功能。
-tags: [安装包,打包,制作,安装包制作,安装包打包,打包软件]
-index_img: /img/Install/7.png
+tags: [安装包,打包,制作,打包软件]
+index_img: /images/Install/7.png
 date: 2024-12-05
 ---
 
@@ -26,13 +26,13 @@ date: 2024-12-05
 9. 自定义软件许可及服务协议
 
 ### 软件效果
-![填写基础信息](/img/Install/1.png)
-![修改图标图片](/img/Install/2.png)
-![填写软件许可及服务协议](/img/Install/3.png)
-![等待打包](/img/Install/4.png)
-![打包中](/img/Install/5.png)
-![打包完成](/img/Install/6.png)
-![开始安装](/img/Install/7.png)
-![安装完成](/img/Install/8.png)
-![开始卸载](/img/Install/9.png)
-![卸载完成](/img/Install/10.png)
+![填写基础信息](/images/Install/1.png)
+![修改图标图片](/images/Install/2.png)
+![填写软件许可及服务协议](/images/Install/3.png)
+![等待打包](/images/Install/4.png)
+![打包中](/images/Install/5.png)
+![打包完成](/images/Install/6.png)
+![开始安装](/images/Install/7.png)
+![安装完成](/images/Install/8.png)
+![开始卸载](/images/Install/9.png)
+![卸载完成](/images/Install/10.png)
