@@ -5,7 +5,6 @@
   "scripts": {
     "build": "hexo generate",
     "server": "hexo server",
-    "github": "hexo deploy",
     "install": "npm install"
   },
   "hexo": {
