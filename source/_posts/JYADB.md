@@ -14,7 +14,7 @@ date: 2025-3-25
 
 
 ### 软件效果
-<video src='/img/JYADB/0.mp4' width='100%' height='500px'></video>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114226098084793&bvid=BV1bWoYYREVM&cid=29071378458&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500px"></iframe>
 
 ![](/img/JYADB/0.png)
 ![](/img/JYADB/1.png)
