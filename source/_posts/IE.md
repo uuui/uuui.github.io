@@ -13,7 +13,7 @@ date: 2025-02-21
 该软件尝试了5种强制打开IE浏览器的方式，总有一种适合你，打不开包退。
 
 ### 软件效果
-![](/images/IE/1.png)
+![](/images/IE/2.png)
 ![](/images/IE/3.png)
 ![](/images/IE/4.png)
 ![](/images/IE/5.png)
