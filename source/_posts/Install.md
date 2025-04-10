@@ -3,7 +3,7 @@ title: 安装包制作
 excerpt: 安装包制作工具，支持替换图标、图片、开机启动等功能。
 tags: [安装包,打包,制作,打包软件]
 index_img: /images/Install/7.png
-date: 2024-12-05
+date: 2025-04-10
 ---
 
 ### [去看看](https://item.taobao.com/item.htm?id=886677223433)

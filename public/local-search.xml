@@ -4,6 +4,56 @@
   
   
   <entry>
+    <title>安装包制作</title>
+    <link href="/Install/"/>
+    <url>/Install/</url>
+    
+    <content type="html"><![CDATA[<h3 id="去看看"><a href="#去看看" class="headerlink" title="去看看"></a><a href="https://item.taobao.com/item.htm?id=886677223433">去看看</a></h3><h3 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h3><blockquote><p>安装包制作工具，支持替换图标、图片、开机启动等功能。<br>采用NSIS(Windows安装程序制作工具)打包，保证无毒。<br>具有速度快，功能多等优点。<br>个人开发，会持续更新，支持定制功能，以满足不同客户的不同需求。</p></blockquote><h3 id="软件功能-不断增加"><a href="#软件功能-不断增加" class="headerlink" title="软件功能(不断增加)"></a>软件功能(不断增加)</h3><ol><li>自定义软件名称</li><li>自定义版本号</li><li>自定义版权信息</li><li>生成快捷方式</li><li>添加到快速启动栏</li><li>开机自动启动</li><li>更换安装卸载图标</li><li>更换安装、卸载轮播图</li><li>自定义软件许可及服务协议</li></ol><h3 id="软件效果"><a href="#软件效果" class="headerlink" title="软件效果"></a>软件效果</h3><p><img src="/images/Install/1.png" alt="填写基础信息"><br><img src="/images/Install/2.png" alt="修改图标图片"><br><img src="/images/Install/3.png" alt="填写软件许可及服务协议"><br><img src="/images/Install/4.png" alt="等待打包"><br><img src="/images/Install/5.png" alt="打包中"><br><img src="/images/Install/6.png" alt="打包完成"><br><img src="/images/Install/7.png" alt="开始安装"><br><img src="/images/Install/8.png" alt="安装完成"><br><img src="/images/Install/9.png" alt="开始卸载"><br><img src="/images/Install/10.png" alt="卸载完成"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>安装包</tag>
+      
+      <tag>打包</tag>
+      
+      <tag>制作</tag>
+      
+      <tag>打包软件</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>安装包制作PLUS[大文件专属]</title>
+    <link href="/ImstallPlus/"/>
+    <url>/ImstallPlus/</url>
+    
+    <content type="html"><![CDATA[<h3 id="去看看"><a href="#去看看" class="headerlink" title="去看看"></a><a href="https://item.taobao.com/item.htm?id=886677223433">去看看</a></h3><h3 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h3><blockquote><p>安装包制作工具，支持替换图标、图片。<br>采用INNO打包，保证无毒。<br>此为大文件专属版本，超过2G的安装包使用。<br>制作界面还没有优化，但功能能用。</p></blockquote><h3 id="软件效果"><a href="#软件效果" class="headerlink" title="软件效果"></a>软件效果</h3><p><img src="/images/ImstallPlus/0.png"><br><img src="/images/ImstallPlus/1.png"><br><img src="/images/ImstallPlus/2.png"><br><img src="/images/ImstallPlus/3.png"><br><img src="/images/ImstallPlus/4.png"><br><img src="/images/ImstallPlus/5.png"><br><img src="/images/ImstallPlus/6.png"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>安装包</tag>
+      
+      <tag>打包</tag>
+      
+      <tag>制作</tag>
+      
+      <tag>打包软件</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>屏幕检测工具</title>
     <link href="/ScreenTest/"/>
     <url>/ScreenTest/</url>
@@ -152,31 +202,6 @@
       <tag>万能</tag>
       
       <tag>视频</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>安装包制作</title>
-    <link href="/Install/"/>
-    <url>/Install/</url>
-    
-    <content type="html"><![CDATA[<h3 id="去看看"><a href="#去看看" class="headerlink" title="去看看"></a><a href="https://item.taobao.com/item.htm?id=886677223433">去看看</a></h3><h3 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h3><blockquote><p>安装包制作工具，支持替换图标、图片、开机启动等功能。<br>采用NSIS(Windows安装程序制作工具)打包，保证无毒。<br>具有速度快，功能多等优点。<br>个人开发，会持续更新，支持定制功能，以满足不同客户的不同需求。</p></blockquote><h3 id="软件功能-不断增加"><a href="#软件功能-不断增加" class="headerlink" title="软件功能(不断增加)"></a>软件功能(不断增加)</h3><ol><li>自定义软件名称</li><li>自定义版本号</li><li>自定义版权信息</li><li>生成快捷方式</li><li>添加到快速启动栏</li><li>开机自动启动</li><li>更换安装卸载图标</li><li>更换安装、卸载轮播图</li><li>自定义软件许可及服务协议</li></ol><h3 id="软件效果"><a href="#软件效果" class="headerlink" title="软件效果"></a>软件效果</h3><p><img src="/images/Install/1.png" alt="填写基础信息"><br><img src="/images/Install/2.png" alt="修改图标图片"><br><img src="/images/Install/3.png" alt="填写软件许可及服务协议"><br><img src="/images/Install/4.png" alt="等待打包"><br><img src="/images/Install/5.png" alt="打包中"><br><img src="/images/Install/6.png" alt="打包完成"><br><img src="/images/Install/7.png" alt="开始安装"><br><img src="/images/Install/8.png" alt="安装完成"><br><img src="/images/Install/9.png" alt="开始卸载"><br><img src="/images/Install/10.png" alt="卸载完成"></p>]]></content>
-    
-    
-    
-    <tags>
-      
-      <tag>安装包</tag>
-      
-      <tag>打包</tag>
-      
-      <tag>制作</tag>
-      
-      <tag>打包软件</tag>
       
     </tags>
     
