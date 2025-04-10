@@ -6,7 +6,7 @@ index_img: /images/ImstallPlus/4.png
 date: 2025-04-10
 ---
 
-### [去看看](https://item.taobao.com/item.htm?id=886677223433)
+### [去看看](https://item.taobao.com/item.htm?id=903953884675)
 
 ### 软件介绍
 > 安装包制作工具，支持替换图标、图片。
